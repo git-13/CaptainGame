@@ -3,4 +3,5 @@ Simple UI game
 
 Topics: Remember and Mutable State
 
-Screenshot_20241001_232733.png
+<img src="https://github.com/git-13/CaptainGame/blob/main/Screenshot_20241001_232705.png" alt="Screenshot" width="500"/>
+
